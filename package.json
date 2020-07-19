@@ -1,0 +1,14 @@
+{
+  "name": "cx_first_npm",
+  "version": "1.0.0",
+  "description": "this is my page npm cx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm", "packge"
+  ],
+  "author": "awxm",
+  "license": "ISC"
+}
